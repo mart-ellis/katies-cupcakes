@@ -1,7 +1,7 @@
 {
-  "name": "slicks-slices-frontend",
+  "name": "katies-cupcakes-frontend",
   "private": true,
-  "description": "Slick Serves the Sweetest Slices",
+  "description": "Katies Caupcakes",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -58,6 +58,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wesbos/slicks-slices"
+    "url": "https://github.com/mart-ellis/katies-cupcakes"
   }
 }
