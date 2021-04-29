@@ -5,6 +5,7 @@
 🔧  Built using
 - React
 - Gatsby
+- Sanity CMS
 - Styled Components
 - React Helmet
-- Sanity
+
